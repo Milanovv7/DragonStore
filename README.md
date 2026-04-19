@@ -1,2 +1,3 @@
 # DragonStore
-This is the DragonStore app in DragonOS.
+
+The DragonStore is the store app in DragonOS. DragonOS is still work in progress.
